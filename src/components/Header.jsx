@@ -1,7 +1,7 @@
 // HeaderElypsis.jsx
 import { useState } from "react";
 
-export default function HeaderElypsis() {
+export default function Header() {
   const [open, setOpen] = useState(false);
 
   return (
